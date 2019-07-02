@@ -4,7 +4,7 @@
 [Linkedin](https://www.linkedin.com/in/zachary-allen-kravits/)
 
 # Summary
-Currently, I am a UX/UI designer at a small SAAS startup in Pittsburgh. Now, looking to advance my design skills and knowledge in what it takes to build a good product by learning code. In the long term, I will create a company and utilize these skills.
+Currently, I am a UX/UI designer at a small SAAS startup in Pittsburgh. In order to reach my long term goal of creating a meaningful and useful product/service, I am now looking to advance my design skills and knowledge in what it takes to build a good product by learning code.
 
 # Work History
 
@@ -24,3 +24,8 @@ Currently, I am a UX/UI designer at a small SAAS startup in Pittsburgh. Now, loo
 * Clint's Coffee
 * Updating the brand identity of an new local brand within the Pittsburgh area, which specializes in selling coffee through online and local channels.
 
+# Education
+
+## Seton Hill University
+* BS in Business Admin (Marketing Specialization)
+* Certificate in Graphic Design
